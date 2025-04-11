@@ -1,7 +1,7 @@
-<h1 align="center">🎮 Lucas César Lopes — *Level Up Dev*</h1>
+<h1 align="center">🎮 Lucas César Lopes</h1>
 
 <p align="center">
-  <b>Flutter Developer | UI/UX Designer | Diretor da Nagazaki Software</b><br>
+  <b>Flutter Developer | Especialista em projetos | Diretor da Nagazaki Software</b><br>
   Criando experiências que evoluem a cada commit 🚀
 </p>
 
@@ -33,7 +33,7 @@
 
 ## 🧩 Missões Completas
 
-✨ **Quick** — praticidade no dia a dia  
+✨ **Quicky** — praticidade no dia a dia  
 🏋️‍♂️ **MH Personal Trainer** — foco em performance e bem-estar  
 🏙️ **Vitrine Cidades** — turismo e serviços em um só app  
 📦 **Dorm-Box** — automação para hospedagens inteligentes
