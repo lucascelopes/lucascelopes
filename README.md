@@ -1,61 +1,62 @@
-<h1 align="center">Olá! Eu sou o Lucas César Lopes 👨‍💻</h1>
+<h1 align="center">🎮 Lucas César Lopes — *Level Up Dev*</h1>
 
 <p align="center">
   <b>Flutter Developer | UI/UX Designer | Diretor da Nagazaki Software</b><br>
-  Transformando ideias em experiências digitais incríveis 🚀
+  Criando experiências que evoluem a cada commit 🚀
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design-User%20Experience-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍🎨 Sobre mim
+## 🧑‍💻 Dev Stats (XP do Jogador)
 
-Sou um desenvolvedor **Flutter** apaixonado por criar **experiências móveis únicas**, sempre com foco em performance, design e inovação. Também atuo como **Designer** e **Diretor na [Nagazaki Software](https://www.nagazakisoftware.com.br)**, desenvolvendo soluções digitais sob medida para empresas de todos os tamanhos.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascesarlopes&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+</p>
 
-🧠 Acredito que a tecnologia deve **resolver problemas reais** e que a **experiência do usuário** é o coração de qualquer produto.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascesarlopes&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🧩 Projetos em Destaque
-
-✨ **Quick**  
-<sub>Agilidade e praticidade para o seu dia a dia.</sub>
-
-🏋️‍♂️ **MH Personal Trainer**  
-<sub>Plataforma de treinos e saúde para personal trainers e alunos.</sub>
-
-🏙️ **Vitrine Cidades**  
-<sub>Descubra e explore cidades com foco em turismo e serviços locais.</sub>
-
-📦 **Dorm-Box**  
-<sub>Sistema para gerenciamento de espaços compartilhados e hospedagens.</sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascesarlopes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🧩 Missões Completas
 
-- 💙 **Flutter** para desenvolvimento mobile
-- 🧁 **Dart** como linguagem principal
-- 🔥 **Firebase** para backend e autenticação
-- 🎨 **UI/UX Design** com foco em usabilidade e estética
-
----
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20César%20Lopes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-césar-lopes-77929a17a/)
-[![Website](https://img.shields.io/badge/Website-Nagazaki%20Software-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.nagazakisoftware.com.br)
+✨ **Quick** — praticidade no dia a dia  
+🏋️‍♂️ **MH Personal Trainer** — foco em performance e bem-estar  
+🏙️ **Vitrine Cidades** — turismo e serviços em um só app  
+📦 **Dorm-Box** — automação para hospedagens inteligentes
 
 ---
 
-## 📬 Vamos conversar?
+## 💼 Arsenal do Desenvolvedor
 
-Estou sempre aberto a novas oportunidades, ideias e colaborações!  
-Se quiser bater um papo ou trabalhar junto, é só me chamar. 😄
+- 💙 Flutter & Dart
+- 🔥 Firebase
+- 🌐 Node.js
+- 🎨 UI/UX Design
 
+---
+
+## 🧙‍♂️ Conecte-se com o Mestre Dev
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20César%20Lopes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-césar-lopes-77929a17a/)  
+[![Website](https://img.shields.io/badge/Nagazaki%20Software-Website-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.nagazakisoftware.com.br)
+
+---
+
+## 📬 Quer jogar junto?
+
+Estou sempre pronto pra uma nova jornada dev!  
+Chama aí, vamos criar algo épico! ⚔️
